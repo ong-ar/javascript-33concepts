@@ -56,4 +56,5 @@ const add = (a, b) => a + b;
 console.log(awesome); // error
 ```
 
-function declaration vs fuction expression
+function declaration vs function expression  
+function declaration 은 hoisting 에 영향을 받지만 function expression 는 영향을 받지 않는다.
